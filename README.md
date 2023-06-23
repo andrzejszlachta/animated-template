@@ -11,7 +11,7 @@ LIVE: https://andrzejszlachta.github.io/animated-template/
 
 ## Overview
 
-description
+Animated elements on scroll.
 
 ### Built With
 
@@ -19,7 +19,7 @@ HTML, CSS, JavaScript
 
 ## Features
 
-1. feature 1
+1. Animated appear of elements on scroll
 
 ## Contact
 
@@ -28,4 +28,5 @@ https://andrzejszlachta.github.io/
 
 ## Acknowledgements
 
-acknowdledgments
+Tailwind Landing Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/landing  
+Animate on Scroll Library: https://michalsnik.github.io/aos/
